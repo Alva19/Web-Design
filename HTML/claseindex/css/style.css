@@ -1,0 +1,50 @@
+img {
+    position: relative;
+    top: 100px;
+    right: 80px;
+    height: 80px;
+    width: 80px;
+}
+
+#Frutas {
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    position: relative;
+}
+
+#Verduras {
+    margin-top: 100px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    position: relative;
+}
+
+#Carnes {
+    margin-top: 100px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    position: relative;
+}
+.carne {
+    color: black;
+}
+.verdura {
+    color: black;
+}
+.fruta {
+    color: black;
+}
+
+.img {
+    padding: 20px;
+    position: relative;
+}
+
+.link {
+    position: relative;
+    bottom: 20px;
+    padding-bottom: 20px;
+}
