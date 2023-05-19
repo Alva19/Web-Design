@@ -1,0 +1,14 @@
+/*h2 + p{ Agrega el estilo a las etiquetas p que estén a lado de un h2 
+    color: red;
+}*/
+/*h2 ~ p{ Aplica el estilo siempre y cuando estén en la misma línea
+    color: red;
+}*/
+/*div > p{ Agregale el estilo que sea hijo directo del padre
+    color: red;
+}*/
+
+div  p{ /*Agregale el estilo que esten adentro de la etiqueta*/
+    color: red;
+}
+
